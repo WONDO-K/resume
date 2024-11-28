@@ -93,16 +93,16 @@
 ## 🗂 **Projects**
 
 ### 1. 관통 프로젝트 - NewBee  
-[프로젝트 상세 보기](https://www.notion.so/f7ffd529196f485baa16309e01891275?p=148e961cad1f81cc9f53e0a5f522c61c&pm=c)  
+[프로젝트 상세 보기](http://notion.so/1-NewBee-148e961cad1f81b3bc7cd4797c3508a0?pvs=23) 
 
 ### 2. 공통 프로젝트 - 우리동네 반상회 BanChan  
-[프로젝트 상세 보기](https://www.notion.so/f7ffd529196f485baa16309e01891275?p=148e961cad1f813d96cce6a41af42114&pm=c)  
+[프로젝트 상세 보기](https://www.notion.so/f7ffd529196f485baa16309e01891275?p=148e961cad1f81cc9f53e0a5f522c61c&pm=c)  
 
 ### 3. 특화 프로젝트 - O-Otd (오늘의 옷)  
-[프로젝트 상세 보기](https://www.notion.so/f7ffd529196f485baa16309e01891275?p=148e961cad1f81b3bc7cd4797c3508a0&pm=c)  
+[프로젝트 상세 보기](http://notion.so/2-O-Otd-148e961cad1f81aa8331fc1aeae5516e?pvs=23)  
 
 ### 4. 자율 프로젝트 - 쑥쑥 (SSOOKSSOOK)  
-[프로젝트 상세 보기](https://www.notion.so/f7ffd529196f485baa16309e01891275?p=148e961cad1f81aa8331fc1aeae5516e&pm=c)  
+[프로젝트 상세 보기](https://www.notion.so/2-SSOOKSSOOK-148e961cad1f813d96cce6a41af42114)  
 
 ---
 
