@@ -109,19 +109,19 @@
 ## 🛠 **Skills**
 
 ### **Languages**
-- Java, Python, TypeScript  
+- Java, Python  
 
 ### **Frameworks & Libraries**
-- Spring Boot, Django, React, Vue.js  
+- Spring Boot, Django, Vue.js  
 
 ### **Database**
-- MySQL, MongoDB, Redis  
+- MySQL, Redis  
 
 ### **Version Control**
 - Git, GitHub  
 
 ### **DevOps**
-- Docker, Jenkins, Kafka  
+- Docker, Jenkins  
 
 ---
 
